@@ -31,4 +31,6 @@ En la mitología griega existen doce olimpicos que son los más conocidos, los c
 11. Artemisa: Diosa de la caza, los animales salvajes, el terreno virgen, los nacimientos, la virginidad y las doncellas.
 12. Hefesto: Dios de la forja y del fuego, así como de los herreros, los artesanos, los escultores, los metales y la metalurgia.
 
+Aqui podemos mencionar que Hades no se considera como un olimpico ya que él reside en el inframundo a diferencia de los anteriores que viven en el Monte Olimpo.
+
 ![image](https://github.com/user-attachments/assets/a77d6562-16f6-4f63-9ecf-164955015011)
