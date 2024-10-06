@@ -15,3 +15,20 @@ La profecia fue concebida una noche, mientras Zeus dormia, el espiritu de Cronos
 
 ![image](https://github.com/user-attachments/assets/ffe0061a-c581-4cb2-97f0-3152d484fb6a)
 
+## ¿Quienes son los olimpicos?
+En la mitología griega existen doce olimpicos que son los más conocidos, los cuales son:
+
+1. Zeus: Dios de los cielos y rey de los dioses
+2. Poseidón: Dios de los mares
+3. Hera: Diosa del matrimonio
+4. Hestia: Diosa del hogar y guardiana del fuego sagrado. 
+5. Demeter: Diosa de la agricultura y las estaciones
+6. Afrodita: Diosa del amor y la belleza
+7. Ares: Dios de la guerra bruta
+8. Atenea: Diosa de la sabiduria y la guerra estrategica
+9. Hermes: Dios mensajero, también de las fronteras y de los viajeros que las cruzan, del ingenio y del comercio en general, de la astucia, de los ladrones y de los mentirosos, además es el encargado de guiar a las almas hacia el inframundo.
+10. Apolo: Dios de las artes, del arco y la flecha, la curacion y las plagas que amenazaba o protegía desde lo alto de los cielos.
+11. Artemisa: Diosa de la caza, los animales salvajes, el terreno virgen, los nacimientos, la virginidad y las doncellas.
+12. Hefesto: Dios de la forja y del fuego, así como de los herreros, los artesanos, los escultores, los metales y la metalurgia.
+
+![image](https://github.com/user-attachments/assets/a77d6562-16f6-4f63-9ecf-164955015011)
